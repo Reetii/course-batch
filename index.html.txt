@@ -1,0 +1,99 @@
+<div class="container">
+  <div class="content">
+  <div class="row">
+  <div class="col-md-12" style="padding:5px 2px;border:0px solid;border-radius:7px; background-color:#F39C12; display:inline-block;font-weight:400;">
+        <div class="col-md-6 text-left" style="display:inline-block;padding:0px 15px; font-family:Andalus; font-size:25px; font-weight:700" >CORPUS</div>
+        <div class="col-md-6 text-right" style="font-size:12px;font-weight:800" >
+        <div class="col-md-12"> XI + AIIMS + NEET 2020 </div>
+        <div class="col-md-12"> (2 years during class XI & XII)</div>
+
+      </div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12" style="text-align:justify; margin-top:15px;">
+  <span class="sub">Admission Process</span>
+  <p>Through entrance test. The test will be objective type & the syllabus will be Science and Mathematics of class IX & X and general mental ability.</p>
+    </div>
+
+</div>
+
+<div class="row">
+<div class="col-md-12" style="text-align:justify; margin-top:15px;">
+  <span class="sub">Course Description</span>
+  <p>This course is designed for those career conscious students who want to take a lead and start preparing for AIIMS / NEET immediately after their class X examination. This two year legendary course is perfect and is unmatched in its rigour and precision. The course is so devised that the concepts are dealt with gradually, gathering momentum in such a way that the stress level does not become painful. Statistically speaking, students who start preparation after class X, are more likely to succeed in AIIMS / NEET. So, if you think you are bright, if you think you are capable, if you think that you can make it to the top, this course is precisely for you.</p>
+    </div>
+  </div>
+  <div class="row">
+  <div class="col-md-12">
+    <h3 class="text-center sub">Course Description</h3>
+      </div>
+    </div>
+
+  <table class="table table-hover text-center">
+  <thead>
+    <tr>
+      <th scope="col">Course Name</th>
+      <th scope="col">Entrance Test Data</th>
+      <th scope="col">Classes start from</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="table-active">
+      <th scope="col"><b>Corpus</b><br>XI+AIIMS+NEET 2020<br>(X TO XI moving Students)</th>
+      <td>
+      <b>Phase-I:</b>
+      26-11-2017<br />
+                 &nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 24-12-2017<br />
+               &nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 21-01-2018<br />
+                 &nbsp;&nbsp;
+                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11-02-2018<br />
+&nbsp;&nbsp;
+                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 25-03-2018<br />
+
+
+&nbsp;&nbsp;
+                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 01-04-2018<br />
+
+
+    </td>
+    <td>
+    <b>Phase-I:</b>
+    26-11-2017<br />
+               &nbsp;&nbsp;&nbsp;
+                  &nbsp;&nbsp;&nbsp;&nbsp;
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 24-12-2017<br />
+             &nbsp;&nbsp;
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 21-01-2018<br />
+               &nbsp;&nbsp;
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11-02-2018<br />
+&nbsp;&nbsp;
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 25-03-2018<br />
+
+
+&nbsp;&nbsp;
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 01-04-2018<br />
+
+
+  </td>
+
+    </tr>
+
+  </tbody>
+</table>
+
+</div>
+
+
+</div>
